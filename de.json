@@ -10,21 +10,25 @@
     "PF2E.CurrentHPLabel": "Aktuelle TP",
     "PF2E.MaxHPLabel": "Max TP",
     "PF2E.ShieldCurrentLabel": "Schild TP",
-    "PF2E.ShieldMaxLabel": "Max/BW",
+    "PF2E.ShieldMaxLabel": "Max",
+    "PF2E.ShieldBTLabel": "BW",
     "PF2E.DyingLabel": "Sterbend",
     "PF2E.WoundsLabel": "Verwundet",
     "PF2E.PerceptionHeader": "Wahrnehmung",
     "PF2E.PerceptionLabel": "Wahrnehmung",
+    "PF2E.InitiativeHeader": "Initiative Bonus",
     "PF2E.SizeLabel": "Größe",
     "PF2E.ProficiencyRankLabel": "Komp",
+    "PF2E.CircumstanceBonusLabel": "Situation",
     "PF2E.ItemBonusLabel": "Ggstd.",
+    "PF2E.StatusBonusLabel": "Zustand",
     "PF2E.SavesHeader": "Rettungswürfe",
     "PF2E.AbilityScoresHeader": "Attributswerte",
     "PF2E.TabActionsLabel": "Aktionen",
     "PF2E.TabInventoryLabel": "Inventar",
     "PF2E.TabSpellbookLabel": "Zauberbuch",
     "PF2E.TabSkillsLabel": "Fähigkeiten",
-    "PF2E.TabFeatsLabel": "Talent",
+    "PF2E.TabFeatsLabel": "Talente",
     "PF2E.TabCharacterLabel": "Charakter",
 
     "PF2E.SavesReflex": "Reflex",
@@ -68,7 +72,7 @@
     "PF2E.SkillNat": "Naturkunde",
     "PF2E.SkillOcc": "Okkultismus",
     "PF2E.SkillPrf": "Darbietung",
-    "PF2E.SkillRel": "Religion",
+    "PF2E.SkillRel": "Religionskunde",
     "PF2E.SkillSoc": "Gesellschaft",
     "PF2E.SkillSte": "Heimlichkeit",
     "PF2E.SkillSur": "Überleben",
@@ -190,5 +194,8 @@
     "PF2E.QuantityLabel": "Menge",
     "PF2E.BulkLabel": "Last",
     "PF2E.PriceLabel": "Wert",
-    "PF2E.TraitsLabel": "Merkmale"
+    "PF2E.TraitsLabel": "Merkmale",
+
+
+    "PF2E.ClickToSetInitiative": "Klicke um Initiative bei gewählten Figuren zu setzen."
 }
