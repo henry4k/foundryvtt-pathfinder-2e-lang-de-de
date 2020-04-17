@@ -1,0 +1,18 @@
+image: python:3-alpine
+
+stages:
+  - build
+
+build:
+  stage: build
+  script:
+    - python -mjson.tool 'de.json' > /dev/null
+    - python -mjson.tool 'module.json' > /dev/null
+  artifacts:
+    name: de
+    when: on_success
+    paths:
+      - de.json
+      - module.json
+      - style.css
+      - NodestoCapsCondensed2.otf
