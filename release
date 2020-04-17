@@ -20,7 +20,7 @@ cat >module.json <<EOF
    "scripts" : [],
    "styles": ["style.css"],
    "url" : "https://gitlab.com/henry4k/foundryvtt-pathfinder2e-lang-de",
-   "manifest" : "https://gitlab.com/henry4k/foundryvtt-pathfinder2e-lang-de/-/blob/master/module.json",
+   "manifest" : "https://gitlab.com/henry4k/foundryvtt-pathfinder2e-lang-de/-/raw/master/module.json",
    "download" : "https://gitlab.com/henry4k/foundryvtt-pathfinder2e-lang-de/-/jobs/artifacts/v$VERSION/download?job=build"
 }
 EOF

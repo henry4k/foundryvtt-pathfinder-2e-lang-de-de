@@ -9,7 +9,7 @@ build:
     - python -mjson.tool 'de.json' > /dev/null
     - python -mjson.tool 'module.json' > /dev/null
   artifacts:
-    name: de
+    name: lang-de-pf2e
     when: on_success
     paths:
       - de.json
