@@ -2,38 +2,108 @@
     "I18N.LANGUAGE": "Deutsch",
     "I18N.MAINTAINERS": ["henry4k"],
 
+    "PF2E.AbilityTitle": "Attribut",
+    "PF2E.ModifierTitle": "Modifikator",
+    "PF2E.ScoreTitle": "Punkte",
+    "PF2E.EditLabel": "Editieren?",
+    "PF2E.EditNPCLabel": "NSC editieren?",
+    "PF2E.SkillsLabel": "Fähigkeiten",
+    "PF2E.HitPointsShortLabel": "TP",
+    "PF2E.ImmunitiesLabel": "Immunitäten",
+    "PF2E.ResistancesLabel": "Resistenzen",
+    "PF2E.WeaknessesLabel": "Schwächen",
+    "PF2E.CreateAttackTitle": "Angriff erstellen",
+    "PF2E.WeaponStrikeLabel": "Angriff",
+    "PF2E.DamageLabel": "Schaden",
+    "PF2E.CriticalDamageLabel": "Krit.",
+    "PF2E.AttackLabel": "Angriff",
+    "PF2E.SaveDCLabel": "Rettungs-SG",
+    "PF2E.NPCNotesLabel": "Notizen",
+    "PF2E.NPCNotesTitle": "Hier kannst du Notizen zu diesem NSC hinterlegen.",
+    "PF2E.DCLabel": "SG",
+    "PF2E.DefencesLabel": "Verteidigungen",
+    "PF2E.DetailsHeading": "Details",
+    "PF2E.ImageLabel": "Bild",
+    "PF2E.CreateActionTitle": "Aktion erstellen",
+    "PF2E.CreateSkillTitle": "Fähigkeit erstellen",
+    "PF2E.NewSkillPlaceholder": "Neue Fähigkeit",
+    "PF2E.MagicTraditionLabel": "Magische Traditionen",
+    "PF2E.NoneOption": "Nichts",
+
+
+
+
+
+
+
+
+
+
+    "PF2E.CreateFeatTitle": "Talent erstellen",
+    "PF2E.QuantityShortLabel": "Anzahl",
+    "PF2E.BulkShortLabel": "Last",
+    "PF2E.SpecialLabel": "Spezial",
+    "PF2E.UpdateActorLabel": "Charakter aktualisieren",
+    "PF2E.RollBonusPlaceholder": "z.B. +3 oder +1d4",
+    "PF2E.RollModeLabel": "Würfelmodus",
+    "PF2E.AbilityModifierLabel": "Attributsmodifikator",
     "PF2E.HeroPointsLabel": "Heldenpunkte",
     "PF2E.CharacterLevelLabel": "Stufe",
     "PF2E.ArmorClassLabel": "Rüstungsklasse",
+    "PF2E.ArmorClassShortLabel": "RK",
     "PF2E.HitPointsHeader": "Trefferpunkte",
-    "PF2E.TempHPLabel": "Temp TP",
-    "PF2E.CurrentHPLabel": "Aktuelle TP",
-    "PF2E.MaxHPLabel": "Max TP",
+    "PF2E.CharacterNamePlaceholder": "Charaktername",
+    "PF2E.TempHitPointsShortLabel": "Temp TP",
+    "PF2E.TempHPTitle": "temporäre Trefferpunkte",
+    "PF2E.CurrentHitPointsShortLabel": "Aktuelle TP",
+
+    "PF2E.MaxHitPointsShortLabel": "Max TP",
+    "PF2E.MaxHPTitle": "maximale Trefferpunkte",
     "PF2E.ShieldCurrentLabel": "Schild TP",
     "PF2E.ShieldMaxLabel": "Max",
     "PF2E.ShieldBTLabel": "BW",
+    "PF2E.ShieldACBonusTitle": "Der RK-Bonus deines Schildes (wenn du die Aktion Schild heben benutzt)",
+    "PF2E.ShieldLabel": "Schild",
+    "PF2E.ShieldCurrentTitle": "Die aktuellen Trefferpunkte deines Schildes",
+    "PF2E.ShieldMaxTitle": "Die maximalen Trefferpunkte deines Schildes",
+    "PF2E.ShieldBTTitle": "Wie viel Schaden dein Schild nehmen kann bevor es beschädigt und unbenutztbar ist (Beschädigtwert)",
+    "PF2E.ShieldHardnessLabel": "Härte",
+    "PF2E.ShieldHardnessTitle": "Wenn dein Schild Schaden nimmt, wird dieser um den Härtewert reduziert.",
     "PF2E.DyingLabel": "Sterbend",
+
     "PF2E.WoundsLabel": "Verwundet",
+
+    "PF2E.DoomedLabel": "Todgeweiht",
     "PF2E.PerceptionHeader": "Wahrnehmung",
     "PF2E.PerceptionLabel": "Wahrnehmung",
-    "PF2E.InitiativeHeader": "Initiative Bonus",
+    "PF2E.InitiativeHeader": "Initiative-Bonus",
     "PF2E.SizeLabel": "Größe",
     "PF2E.ProficiencyRankLabel": "Komp",
-    "PF2E.CircumstanceBonusLabel": "Situation",
-    "PF2E.ItemBonusLabel": "Ggstd.",
-    "PF2E.StatusBonusLabel": "Zustand",
+    "PF2E.StatusBonusTitle": "Zustandsbonus",
+    "PF2E.StatusBonusQuestion": "Zustandsbonus?",
+    "PF2E.StatusBonusShortLabel": "Zustand",
+    "PF2E.CircumstanceBonusTitle": "Situationsbonus",
+    "PF2E.CircumstanceBonusQuestion": "Situationsbonus?",
+    "PF2E.CircumstanceBonusShortLabel": "Situation",
+    "PF2E.ItemBonusLabel": "Gegenstandsbonus",
+    "PF2E.ItemBonusShortLabel": "Ggstd",
+    "PF2E.SituationalBonusQuestion": "Situationsbonus?",
     "PF2E.SavesHeader": "Rettungswürfe",
     "PF2E.AbilityScoresHeader": "Attributswerte",
     "PF2E.TabActionsLabel": "Aktionen",
     "PF2E.TabInventoryLabel": "Inventar",
-    "PF2E.TabSpellbookLabel": "Zauberbuch",
+    "PF2E.TabSpellbookLabel": "Zauber",
     "PF2E.TabSkillsLabel": "Fähigkeiten",
     "PF2E.TabFeatsLabel": "Talente",
     "PF2E.TabCharacterLabel": "Charakter",
 
+    "PF2E.AllSavesLabel": "Alle Rettungswürfe",
     "PF2E.SavesReflex": "Reflex",
+    "PF2E.SavesReflexShort": "Ref",
     "PF2E.SavesFortitude": "Zähigkeit",
+    "PF2E.SavesFortitudeShort": "Zäh",
     "PF2E.SavesWill": "Willen",
+    "PF2E.SavesWillShort": "Wil",
 
     "PF2E.AbilityStr": "Stärke",
     "PF2E.AbilityDex": "Geschicklichkeit",
@@ -78,6 +148,24 @@
     "PF2E.SkillSur": "Überleben",
     "PF2E.SkillThi": "Diebeskunst",
 
+    "PF2E.SkillAcrobatics": "Akrobatik",
+    "PF2E.SkillArcana": "Arkane Künste",
+    "PF2E.SkillAthletics": "Athletik",
+    "PF2E.SkillCrafting": "Handwerk",
+    "PF2E.SkillDeception": "Täuschung",
+    "PF2E.SkillDiplomacy": "Diplomatie",
+    "PF2E.SkillIntimidation": "Einschüchtern",
+    "PF2E.SkillMedicine": "Heilkunde",
+    "PF2E.SkillNature": "Naturkunde",
+    "PF2E.SkillOccultism": "Okkultismus",
+    "PF2E.SkillPerformance": "Darbietung",
+    "PF2E.SkillReligion": "Religionskunde",
+    "PF2E.SkillSociety": "Gesellschaft",
+    "PF2E.SkillStealth": "Heimlichkeit",
+    "PF2E.SkillSurvival": "Überleben",
+    "PF2E.SkillThievery": "Diebeskunst",
+    "PF2E.SkillLore": "Kenntnisfertigkeit",
+
     "PF2E.MartialUnarmored": "Ungerüstet",
     "PF2E.MartialLight": "Leichte Rüstung",
     "PF2E.MartialMedium": "Mittelschwere Rüstung",
@@ -94,6 +182,7 @@
     "PF2E.FeatBonusHeader": "Bonustalente",
     "PF2E.FeaturesClassHeader": "Klassenmerkmale",
     "PF2E.FeatArchetypeHeader": "Archetyptalente",
+    "PF2E.FeaturesAncestryHeader": "Abstammungsmerkmale",
 
     "PF2E.CharacterDetails": "Charakter Details",
     "PF2E.Ancestry": "Abstammung",
@@ -111,9 +200,30 @@
 
     "PF2E.Size": "Größe",
     "PF2E.Senses": "Sinne",
+
+    "PF2E.SpecialSensesLabel": "Spezielle Sinne",
+
     "PF2E.Languages": "Sprachen",
     "PF2E.Speed": "Bewegungsrate",
+
     "PF2E.SpeedTypes": "Bewegungsarten",
+
+
+    "PF2E.ItemsLabel": "Gegenstände",
+    "PF2E.ItemTitle": "Gegenstand",
+    "PF2E.ItemNamePlaceholder": "Name",
+    "PF2E.EditItemTitle": "Editieren",
+    "PF2E.DeleteItemTitle": "Löschen",
+    "PF2E.CreateItemTitle": "Gegenstand erstellen",
+    "PF2E.AddShortLabel": "",
+    "PF2E.DeleteShortLabel": "",
+    "PF2E.NegligibleOption": "Unerheblich",
+    "PF2E.FormulaPlaceholder": "Formel",
+    "PF2E.ToolHeading": "Werkzeug",
+    "PF2E.ConsumableHeading": "Verbrauchsgegenstand",
+    "PF2E.ConsumableUseLabel": "Verwende",
+    "PF2E.ConsumableNoChargesLabel": "Keine Verwendungen",
+    "PF2E.ConsumableChargesLabel": "Verwendungen",
 
     "PF2E.ActionActionSummary": "Aktion",
     "PF2E.ActionActionTypeLabel": "Aktionsart",
@@ -129,8 +239,10 @@
     "PF2E.ArmorCheckLabel": "Rüstungsmalus",
     "PF2E.ArmorSpeedLabel": "Rüstungsbewegungsmalus",
     "PF2E.ArmorStrengthLabel": "Stärkeanforderung",
+    "PF2E.ArmorStrengthRequiredLabel": "Stärke benötigt",
     "PF2E.ArmorGroupLabel": "Gruppe",
     "PF2E.ArmorEquippedLabel": "Ausgerüstet",
+    "PF2E.ArmorClassValueTitle": "RK-Wert",
 
     "PF2E.ConsumableTypeLabel": "Verbrauchsgegenstand-Art",
     "PF2E.ConsumableConsumeLabel": "Bei Verwendung",
@@ -170,6 +282,28 @@
     "PF2E.SpellRangeLabel": "Reichweite",
     "PF2E.SpellTimeLabel": "Zeitaufwand",
     "PF2E.SpellDurationLabel": "Wirkungsdauer",
+    "PF2E.ExpendSpellTitle": "Zauber aufbrauchen",
+    "PF2E.DeleteSpellcastEntryQuestion": "Bist du dir sicher, dass du diese Zauberklasse löschen willst?",
+    "PF2E.DeleteSpellcastEntryWarning": "WARNUNG: Es werden auch alle Zauber in dieser Klasse gelöscht.",
+    "PF2E.ToggleSpellVisibilityTitle": "Sichbarkeit von Zaubern umschalten",
+    "PF2E.AddSpellcastingEntryTitle": "Zauberklasse hinzufügen",
+    "PF2E.RemoveSpellcastingEntryTitle": "Zauberklasse löschen",
+    "PF2E.SpellAttackLabel": "Zauberangriff",
+    "PF2E.AddSpellTitle": "Zauber hinzufügen",
+    "PF2E.CreateSpellTitle": "Zauber erstellen",
+    "PF2E.UnprepareItemTitle": "Vorbereiten aufheben",
+    "PF2E.UnpreparedSpellsLabel": "Nicht vorbereitete Zauber",
+    "PF2E.SpellcastingTypeLabel": "Wirkungsart",
+    "PF2E.SpellAbilityLabel": "Attribut",
+    "PF2E.SpellsSchoolHeader": "Schule",
+    "PF2E.SpellsActionHeader": "Aktion",
+    "PF2E.OrphanedSpellsHeader": "Verwaiste Zauber (bewege sie in eine Zauberklasse darüber)",
+    "PF2E.SpellBasicSaveOption": "einfach",
+    "PF2E.SpellPreparedLabel": "Vorbereitet",
+    "PF2E.SpellConcentrationLabel": "Konzentration",
+    "PF2E.SpellRitualLabel": "Ritual",
+    "PF2E.SpellCantripLabel": "Zaubertrick",
+    "PF2E.SpellFocusLabel": "Fokus",
 
     "PF2E.WeaponSummary": "Waffe",
     "PF2E.WeaponTypeLabel": "Waffenkompetenz",
@@ -186,6 +320,7 @@
     "PF2E.WeaponReloadLabel": "Nachladezeit",
     "PF2E.WeaponAbilityLabel": "Waffenattribut",
     "PF2E.WeaponMAPLabel": "Malus für Mehrfachangriffe",
+    "PF2E.WeaponMAPDefaultOption": "Standard (Agil-Merkmal wird automatisch angewendet)",
 
     "PF2E.ItemSummary": "Gegenstand",
     "PF2E.ItemDescription": "Beschreibung",
@@ -196,6 +331,759 @@
     "PF2E.PriceLabel": "Wert",
     "PF2E.TraitsLabel": "Merkmale",
 
+    "PF2E.SettingsColorLabel": "Farbeschma",
+    "PF2E.SettingsColorBlue": "Blaugrau",
+    "PF2E.SettingsColorRed": "Dunkelrot",
+  "PF2E.SettingsColorOriginal": "Original",
+    "PF2E.SettingsColorNotes": "Hier kannst du das Farbeschema des Systems setzen. Dieses wird hautpsächlich in Charakterbögen verwendet.",
+    "PF2E.SettingsQuickRollsLabel": "Schnelle W20-Würfe",
+    "PF2E.SettingsQuickRollsNotes": "Pop-up wird bei Würfen nur mit gedrückter SHIFT-Taste angezeigt.",
 
-    "PF2E.ClickToSetInitiative": "Klicke um Initiative bei gewählten Figuren zu setzen."
+    "PF2E.ClickToSetInitiative": "Klicke um Initiative bei gewählten Figuren zu setzen.",
+
+    "PF2E.DamageTypeAcid": "Säure",
+    "PF2E.DamageTypeBludgeoning": "Wucht",
+    "PF2E.DamageTypeCold": "Kälte",
+    "PF2E.DamageTypeFire": "Feuer",
+    "PF2E.DamageTypeForce": "Kraft",
+    "PF2E.DamageTypeElectricity": "Elektrizität",
+    "PF2E.DamageTypeSonic": "Schall",
+    "PF2E.DamageTypeNegative": "Negativ",
+    "PF2E.DamageTypePiercing": "Stich",
+    "PF2E.DamageTypePoison": "Gift",
+    "PF2E.DamageTypePositive": "Positiv",
+    "PF2E.DamageTypeBleed": "Blutung",
+    "PF2E.DamageTypeMental": "Mental",
+    "PF2E.DamageTypePrecision": "Präzision",
+    "PF2E.DamageTypeSlashing": "Hieb",
+    "PF2E.DamageTypeChaotic": "Chaotisch",
+    "PF2E.DamageTypeLawful": "Rechtschaffend",
+    "PF2E.DamageTypeGood": "Gut",
+    "PF2E.DamageTypeEvil": "Böse",
+
+    "PF2E.HealingTypeHealing": "Heilung",
+    "PF2E.HealingTypeTemporaryHealing": "Heilung (Temporär)",
+
+    "PF2E.WeaponTypeSimple": "Einfache Waffe",
+    "PF2E.WeaponTypeMartial": "Kriegswaffe",
+    "PF2E.WeaponTypeAdvanced": "Spezialwaffe",
+    "PF2E.WeaponTypeUnarmed": "Waffenlos",
+
+    "PF2E.WeaponGroupClub": "Keule",
+    "PF2E.WeaponGroupKnife": "Messer",
+    "PF2E.WeaponGroupBrawling": "Brawling",
+    "PF2E.WeaponGroupSpear": "Speer",
+    "PF2E.WeaponGroupSword": "Schwert",
+    "PF2E.WeaponGroupAxe": "Axt",
+    "PF2E.WeaponGroupFlail": "Flegel",
+    "PF2E.WeaponGroupPolearm": "Stangenwaffe",
+    "PF2E.WeaponGroupPick": "Streithacke",
+    "PF2E.WeaponGroupHammer": "Hammer",
+    "PF2E.WeaponGroupShield": "Schild",
+    "PF2E.WeaponGroupDart": "Pfeil",
+    "PF2E.WeaponGroupBow": "Bogen",
+    "PF2E.WeaponGroupSling": "Schleuder",
+    "PF2E.WeaponGroupBomb": "Bombe",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "PF2E.TraitDwarf": "Zweg",
+    "PF2E.TraitElf": "Elf",
+    "PF2E.TraitGnome": "Gnom",
+    "PF2E.TraitGoblin": "Goblin",
+    "PF2E.TraitHalfElf": "Halbelf",
+    "PF2E.TraitHalfling": "Halbling",
+    "PF2E.TraitHalfOrc": "Halbork",
+    "PF2E.TraitHuman": "Mensch",
+
+
+
+
+
+
+
+
+
+
+
+
+    "PF2E.TraitAlchemist": "Alchemist",
+    "PF2E.TraitBarbarian": "Barbar",
+    "PF2E.TraitBard": "Barde",
+    "PF2E.TraitChampion": "Streiter",
+    "PF2E.TraitCleric": "Kleriker",
+    "PF2E.TraitDruid": "Druide",
+    "PF2E.TraitFighter": "Kämpfer",
+    "PF2E.TraitMonk": "Mönch",
+    "PF2E.TraitRanger": "Waldläufer",
+    "PF2E.TraitRogue": "Schurke",
+    "PF2E.TraitSorcerer": "Zauberer",
+    "PF2E.TraitWizard": "Magier",
+
+    "PF2E.TraitUncommon": "Ungewöhnlich",
+    "PF2E.TraitRare": "Selten",
+    "PF2E.TraitUnique": "Einzigartig",
+
+    "PF2E.TraitAgile": "Agil",
+    "PF2E.TraitAttached": "Befestigt",
+    "PF2E.TraitBackstabber": "Heimtückisch",
+    "PF2E.TraitBackswing": "Schwung",
+    "PF2E.TraitBrutal": "Brutal",
+    "PF2E.TraitColdiron": "Kaltes Eisen",
+    "PF2E.TraitDeadlyD6": "Gefährlich W6",
+    "PF2E.TraitDeadlyD8": "Gefährlich W8",
+    "PF2E.TraitDeadlyD10": "Gefährlich W10",
+    "PF2E.TraitDeadlyD12": "Gefährlich W12",
+    "PF2E.TraitDisarm": "Entwaffnen",
+    "PF2E.TraitFatalD8": "Tödlich W8",
+    "PF2E.TraitFatalD10": "Tödlich W10",
+    "PF2E.TraitFatalD12": "Tödlich W12",
+    "PF2E.TraitFinesse": "Finesse",
+    "PF2E.TraitForceful": "Dynamisch",
+    "PF2E.TraitFreeHand": "Integriert",
+    "PF2E.TraitGrapple": "Ergreifen",
+    "PF2E.TraitJoustingD6": "Reiterwaffe W6",
+    "PF2E.TraitMagical": "Magisch",
+    "PF2E.TraitNonlethal": "Nicht-tödlich",
+    "PF2E.TraitParry": "Parade",
+    "PF2E.TraitPropulsive": "Geschoss",
+    "PF2E.TraitRange": "Reichweite",
+    "PF2E.TraitRangedTrip": "Fernkampf",
+    "PF2E.TraitReach": "Reichweite",
+    "PF2E.TraitReach10": "Reichweite 10 ft",
+    "PF2E.TraitReach15": "Reichweite 15 ft",
+    "PF2E.TraitReach20": "Reichweite 20 ft",
+    "PF2E.TraitReach25": "Reichweite 25 ft",
+    "PF2E.TraitShove": "Stoßen",
+    "PF2E.TraitSweep": "Wirbelnd",
+    "PF2E.TraitTethered": "Gebunden",
+    "PF2E.TraitThrown10": "Geworfen 10 ft.",
+    "PF2E.TraitThrown20": "Geworfen 20 ft.",
+    "PF2E.TraitThrown30": "Geworfen 30 ft.",
+    "PF2E.TraitTrip": "Zu Fall bringen",
+    "PF2E.TraitTwin": "Zwilling",
+    "PF2E.TraitTwoHandD8": "Beidhändig W8",
+    "PF2E.TraitTwoHandD10": "Beidhändig W10",
+    "PF2E.TraitTwoHandD12": "Beidhändig W12",
+    "PF2E.TraitUnarmed": "Waffenlos",
+    "PF2E.TraitVersatileS": "Vielseitig H",
+    "PF2E.TraitVersatileP": "Vielseitig S",
+    "PF2E.TraitVersatileB": "Vielseitig W",
+    "PF2E.TraitVolley30": "Ballistisch 30 ft. / 9 m",
+
+    "PF2E.TraitArcane": "Arkan",
+    "PF2E.TraitOccult": "Okkult",
+    "PF2E.TraitDivine": "Göttlich",
+    "PF2E.TraitPrimal": "Natur",
+
+    "PF2E.SpellTraditionArcane": "Arkan",
+    "PF2E.SpellTraditionOccult": "Okkult",
+    "PF2E.SpellTraditionDivine": "Göttlich",
+    "PF2E.SpellTraditionPrimal": "Natur",
+
+    "PF2E.TraitFocus": "Fokus",
+    "PF2E.TraitRitual": "Ritual",
+    "PF2E.TraitScroll": "Schriftrollen",
+
+    "PF2E.TraitCantrip": "Zaubertrick",
+
+    "PF2E.TraitAbjuration": "Bannmagie",
+    "PF2E.TraitConjuration": "Beschwörung",
+    "PF2E.TraitDivination": "Erkenntnis",
+    "PF2E.TraitEnchantment": "Verzauberung",
+    "PF2E.TraitEvocation": "Hervorrufung",
+    "PF2E.TraitIllusion": "Illusion",
+    "PF2E.TraitNecromancy": "Nekromantie",
+    "PF2E.TraitTransmutation": "Verwandlung",
+
+    "PF2E.SpellSchoolAbj": "Bannmagie",
+    "PF2E.SpellSchoolCon": "Beschwörung",
+    "PF2E.SpellSchoolDiv": "Erkenntnis",
+    "PF2E.SpellSchoolEnc": "Verzauberung",
+    "PF2E.SpellSchoolEvo": "Hervorrufung",
+    "PF2E.SpellSchoolIll": "Illusion",
+    "PF2E.SpellSchoolNec": "Nekromantie",
+    "PF2E.SpellSchoolTrs": "Verwandlung",
+
+    "PF2E.TraitAttack": "Angriff",
+    "PF2E.TraitDisease": "Krankheit",
+    "PF2E.TraitPolymorph": "Gestaltwandel",
+    "PF2E.TraitIncapacitation": "Kampfunfähig",
+    "PF2E.TraitPlant": "Pflanze",
+    "PF2E.TraitTeleportation": "Teleportation",
+    "PF2E.TraitVisual": "Sichtbar",
+    "PF2E.TraitEmotion": "Gefühl",
+    "PF2E.TraitLight": "Licht",
+    "PF2E.TraitDarkness": "Dunkelheit",
+    "PF2E.TraitDeath": "Tod",
+    "PF2E.TraitScrying": "Ausspähung",
+    "PF2E.TraitDetection": "Entdeckung",
+    "PF2E.TraitComposition": "Komposition",
+    "PF2E.TraitWater": "Wasser",
+    "PF2E.TraitHealing": "Heilung",
+    "PF2E.TraitEarth": "Erde",
+    "PF2E.TraitCurse": "Fluch",
+    "PF2E.TraitMisfortune": "Unglück",
+    "PF2E.TraitFungus": "Fungus",
+    "PF2E.TraitLinguistic": "Sprache",
+    "PF2E.TraitMorph": "Formwandel",
+
+    "PF2E.TraitMove": "Bewegung",
+    "PF2E.TraitManipulate": "Handhaben",
+    "PF2E.TraitConcentrate": "Konzentration",
+    "PF2E.TraitRage": "Kampfrausch",
+    "PF2E.TraitGeneral": "Allgemein",
+    "PF2E.TraitSkill": "Fähigkeit",
+    "PF2E.TraitFortune": "Glück",
+    "PF2E.TraitDowntime": "Auszeit",
+    "PF2E.TraitSecret": "Verdeckt",
+    "PF2E.TraitAdditive1": "Mixtur 1",
+    "PF2E.TraitAdditive2": "Mixtur 2",
+    "PF2E.TraitAdditive3": "Mixtur 3",
+    "PF2E.TraitAir": "Luft",
+    "PF2E.TraitArchetype": "Archetyp",
+    "PF2E.TraitAuditory": "Hörbar",
+    "PF2E.TraitDedication": "Zugang",
+    "PF2E.TraitExploration": "Erkundung",
+    "PF2E.TraitFear": "Angst",
+    "PF2E.TraitFlourish": "Anstrengend",
+    "PF2E.TraitInstinct": "Instinkt",
+    "PF2E.TraitMetamagic": "Metamagie",
+    "PF2E.TraitMulticlass": "Zusatzklasse",
+    "PF2E.TraitOath": "Eid",
+    "PF2E.TraitOpen": "Eröffnung",
+    "PF2E.TraitPress": "Nachsetzen",
+    "PF2E.TraitStance": "Haltung",
+    "PF2E.TraitAlchemical": "Alchemistisch",
+    "PF2E.TraitInteract": "Interagieren",
+    "PF2E.TraitAura": "Aura",
+    "PF2E.TraitOlfactory": "Riechbar",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "PF2E.WeaponHands1": "Eine",
+    "PF2E.WeaponHands1Plus": "Eine oder Zwei",
+    "PF2E.WeaponHands2": "Zwei",
+
+    "PF2E.ItemBonusMinus2": "Minderwertig (-2)",
+    "PF2E.ItemBonus0": "0",
+    "PF2E.ItemBonus1": "+1 Waffenverbesserung",
+    "PF2E.ItemBonus2": "+2 Waffenverbesserung",
+    "PF2E.ItemBonus3": "+3 Waffenverbesserung",
+
+    "PF2E.DamageDieD4": "W4",
+    "PF2E.DamageDieD6": "W6",
+    "PF2E.DamageDieD8": "W8",
+    "PF2E.DamageDieD10": "W10",
+    "PF2E.DamageDieD12": "W12",
+
+    "PF2E.WeaponRangeMelee": "Nahkampf",
+    "PF2E.WeaponRangeReach": "Fernkampf",
+
+    "PF2E.WeaponRange10": "10 ft. / 3 m",
+    "PF2E.WeaponRange20": "20 ft. / 6 m",
+    "PF2E.WeaponRange30": "30 ft. / 9 m",
+    "PF2E.WeaponRange40": "40 ft. / 12 m",
+    "PF2E.WeaponRange50": "50 ft. / 15 m",
+    "PF2E.WeaponRange60": "60 ft. / 18 m",
+    "PF2E.WeaponRange80": "80 ft. / 24 m",
+    "PF2E.WeaponRange100": "100 ft. / 30 m",
+    "PF2E.WeaponRange120": "120 ft. / 36 m",
+    "PF2E.WeaponRange140": "140 ft. / 42 m",
+
+    "PF2E.ArmorTypeUnarmored": "Ungerüstet",
+    "PF2E.ArmorTypeLight": "Leichte Rüstung",
+    "PF2E.ArmorTypeMedium": "Mittelschwere Rüstung",
+    "PF2E.ArmorTypeHeavy": "Schwere Rüstung",
+    "PF2E.ArmorTypeShield": "Schild",
+
+    "PF2E.ArmorGroupLeather": "Leder",
+    "PF2E.ArmorGroupComposite": "Mehrschichtig",
+    "PF2E.ArmorGroupChain": "Kette",
+    "PF2E.ArmorGroupPlate": "Platte",
+
+    "PF2E.ConsumableTypeAmmo": "Munition",
+    "PF2E.ConsumableTypePotion": "Trank",
+    "PF2E.ConsumableTypeOil": "Öl",
+    "PF2E.ConsumableTypeScroll": "Schriftrolle",
+    "PF2E.ConsumableTypeTalisman": "Talisman",
+    "PF2E.ConsumableTypeOther": "Anderes",
+
+    "PF2E.PreparationTypePrepared": "Vorbereitet",
+    "PF2E.PreparationTypeSpontaneous": "Spontan",
+    "PF2E.PreparationTypeInnate": "Immanent",
+
+    "PF2E.AreaTypeBurst": "Explosion",
+    "PF2E.AreaTypeCone": "Kegel",
+    "PF2E.AreaTypeEmanation": "Ausstrahlung",
+    "PF2E.AreaTypeLine": "Linie",
+
+    "PF2E.AreaSize5": "5 ft. / 1,5 m",
+    "PF2E.AreaSize10": "10 ft. / 3 m",
+    "PF2E.AreaSize15": "15 ft. / 4,5 m",
+    "PF2E.AreaSize20": "20 ft. / 6 m",
+    "PF2E.AreaSize30": "30 ft. / 9 m",
+    "PF2E.AreaSize40": "40 ft. / 12 m",
+    "PF2E.AreaSize50": "50 ft. / 15 m",
+    "PF2E.AreaSize60": "60 ft. / 18 m",
+    "PF2E.AreaSize120": "120 ft. / 36 m",
+
+    "PF2E.AlignmentLG": "Rechtschaffend Gut",
+    "PF2E.AlignmentNG": "Neutral Gut",
+    "PF2E.AlignmentCG": "Chaotisch Gut",
+    "PF2E.AlignmentLN": "Rechtschaffend Neutral",
+    "PF2E.AlignmentN": "Neutral",
+    "PF2E.AlignmentCN": "Chaotisch Neutral",
+    "PF2E.AlignmentLE": "Rechtschaffend Böse",
+    "PF2E.AlignmentNE": "Neutral Böse",
+    "PF2E.AlignmentCE": "Chaotisch Böse",
+
+    "PF2E.SpellComponentV": "Verbal",
+    "PF2E.SpellComponentS": "Geste",
+    "PF2E.SpellComponentM": "Material",
+
+    "PF2E.SpellTypeAttack": "Zauberangriff",
+    "PF2E.SpellTypeSave": "Rettungswurf",
+    "PF2E.SpellTypeHeal": "Heilung",
+    "PF2E.SpellTypeUtility": "Werkzeug",
+
+    "PF2E.SpellLevel0": "Trick",
+    "PF2E.SpellLevel1": "1. Stufe",
+    "PF2E.SpellLevel2": "2. Stufe",
+    "PF2E.SpellLevel3": "3. Stufe",
+    "PF2E.SpellLevel4": "4. Stufe",
+    "PF2E.SpellLevel5": "5. Stufe",
+    "PF2E.SpellLevel6": "6. Stufe",
+    "PF2E.SpellLevel7": "7. Stufe",
+    "PF2E.SpellLevel8": "8. Stufe",
+    "PF2E.SpellLevel9": "9. Stufe",
+    "PF2E.SpellLevel10": "10. Stufe",
+
+    "PF2E.FeatTypeBonus": "Bonustalent",
+    "PF2E.FeatTypeAncestry": "Abstammungstalent",
+    "PF2E.FeatTypeSkill": "Fertigkeitstalent",
+    "PF2E.FeatTypeGeneral": "Allgemeines Talent",
+    "PF2E.FeatTypeClass": "Klassentalent",
+    "PF2E.FeatTypeClassfeature": "Klassenmerkmal",
+    "PF2E.FeatTypeArchetype": "Archetyptalent",
+    "PF2E.FeatTypeAncestryfeature": "Abstammungsmerkmal",
+
+    "PF2E.FeatActionTypeAction": "Aktion",
+    "PF2E.FeatActionTypeReaction": "Reaktion",
+    "PF2E.FeatActionTypeFree": "Freie Aktion",
+    "PF2E.FeatActionTypePassive": "Passiv",
+
+    "PF2E.ActionTypeAction": "Aktion",
+    "PF2E.ActionTypeReaction": "Reaktion",
+    "PF2E.ActionTypeFree": "Freie Aktion",
+    "PF2E.ActionTypePassive": "Passiv",
+
+    "PF2E.ActionNumber1": "Eine",
+    "PF2E.ActionNumber2": "Zwei",
+    "PF2E.ActionNumber3": "Drei",
+
+    "PF2E.ActionCategoryInteraction": "Interaktion",
+    "PF2E.ActionCategoryDefensive": "Defensiv",
+    "PF2E.ActionCategoryOffensive": "Offensiv",
+
+    "PF2E.ProficiencyLevel0": "Ungeübt",
+    "PF2E.ProficiencyLevel1": "Geübt",
+    "PF2E.ProficiencyLevel2": "Experte",
+    "PF2E.ProficiencyLevel3": "Meister",
+    "PF2E.ProficiencyLevel4": "Legende",
+
+    "PF2E.HeroPointLevel0": "Null Heldenpunkte",
+    "PF2E.HeroPointLevel1": "Ein Heldenpunkt",
+    "PF2E.HeroPointLevel2": "Zwei Heldenpunkte",
+    "PF2E.HeroPointLevel3": "Drei Heldenpunkte",
+
+    "PF2E.ActorSizeTiny": "Winzig",
+    "PF2E.ActorSizeSmall": "Klein",
+    "PF2E.ActorSizeMedium": "Mittelgroß",
+    "PF2E.ActorSizeLarge": "Groß",
+    "PF2E.ActorSizeHuge": "Riesig",
+    "PF2E.ActorSizeGargantuan": "Gigantisch",
+
+    "PF2E.BulkTypeLight": "Leicht",
+
+    "PF2E.ConditionTypeBlinded": "Blind",
+    "PF2E.ConditionTypeBroken": "Beschädigt",
+    "PF2E.ConditionTypeClumsy": "Unbeholfen",
+    "PF2E.ConditionTypeConcealed": "Verborgen",
+    "PF2E.ConditionTypeConfused": "Verwirrt",
+    "PF2E.ConditionTypeControlled": "Gesteuert",
+    "PF2E.ConditionTypeDazzled": "Geblendet",
+    "PF2E.ConditionTypeDeafened": "Taub",
+    "PF2E.ConditionTypeDoomed": "Todgeweiht",
+    "PF2E.ConditionTypeDrained": "Ausgelaugt",
+    "PF2E.ConditionTypeDying": "Sterbend",
+    "PF2E.ConditionTypeEncumbered": "Belastet",
+    "PF2E.ConditionTypeEnfeebled": "Kraftlos",
+    "PF2E.ConditionTypeFascinated": "Fasziniert",
+    "PF2E.ConditionTypeFatigued": "Erschöpft",
+    "PF2E.ConditionTypeFlatFooted": "Auf dem falschen Fuß",
+    "PF2E.ConditionTypeFleeing": "Fliehend",
+    "PF2E.ConditionTypeFriendly": "Freundlich",
+    "PF2E.ConditionTypeFrightened": "Verängstigt",
+    "PF2E.ConditionTypeGrabbed": "Gegriffen",
+    "PF2E.ConditionTypeHelpful": "Hilfsbereit",
+    "PF2E.ConditionTypeHidden": "Versteckt",
+    "PF2E.ConditionTypeHostile": "Feindlich",
+    "PF2E.ConditionTypeImmobilized": "Bewegungsunfähig",
+    "PF2E.ConditionTypeIndifferent": "Gleichgültig",
+    "PF2E.ConditionTypeInvisible": "Unsichtbar",
+    "PF2E.ConditionTypeObserved": "Beobachtet",
+    "PF2E.ConditionTypeParalyzed": "Gelähmt",
+    "PF2E.ConditionTypePersistent": "Anhaltender Schaden",
+    "PF2E.ConditionTypePetrified": "Versteinert",
+    "PF2E.ConditionTypeProne": "Liegend",
+    "PF2E.ConditionTypeQuickened": "Beschleunigt",
+    "PF2E.ConditionTypeRestrained": "Gebunden",
+    "PF2E.ConditionTypeSickened": "Kränkelnd",
+    "PF2E.ConditionTypeSlowed": "Verlangsamt",
+    "PF2E.ConditionTypeStunned": "Betäubt",
+    "PF2E.ConditionTypeStupefied": "Benommen",
+    "PF2E.ConditionTypeUnconscious": "Bewusstlos",
+    "PF2E.ConditionTypeUndetected": "Unentdeckt",
+    "PF2E.ConditionTypeUnfriendly": "Unfreundlich",
+    "PF2E.ConditionTypeUnnoticed": "Unbemerkt",
+    "PF2E.ConditionTypeWounded": "Verwundet",
+
+    "PF2E.ImmunityTypeDeathEffects": "Todeseffekte",
+    "PF2E.ImmunityTypeCriticalHits": "Kritische Treffer",
+    "PF2E.ImmunityTypeObjectImmunities": "Object Immunities",
+    "PF2E.ImmunityTypePrecisionDamage": "Precision Damage",
+    "PF2E.ImmunityTypeMagic": "Magic",
+
+    "PF2E.LanguageCommon": "Gemeinsprache",
+    "PF2E.LanguageAbyssal": "Abyssisch",
+    "PF2E.LanguageAklo": "Aklo",
+    "PF2E.LanguageAquan": "Aqual",
+    "PF2E.LanguageAuran": "Aural",
+    "PF2E.LanguageBoggard": "Boggard",
+    "PF2E.LanguageCelestial": "Celestisch",
+    "PF2E.LanguageDraconic": "Drakonisch",
+    "PF2E.LanguageDruidic": "Druidisch",
+    "PF2E.LanguageDwarvish": "Zwegisch",
+    "PF2E.LanguageElven": "Elfisch",
+    "PF2E.LanguageGnomish": "Gnomisch",
+    "PF2E.LanguageGoblin": "Goblinisch",
+    "PF2E.LanguageGnoll": "Gnollisch",
+    "PF2E.LanguageHalfling": "Halblingisch",
+    "PF2E.LanguageIgnan": "Ignal",
+    "PF2E.LanguageIruxi": "Iruxisch",
+    "PF2E.LanguageJotun": "Jotun",
+    "PF2E.LanguageInfernal": "Infernalisch",
+    "PF2E.LanguageOrcish": "Orkisch",
+    "PF2E.LanguageNecril": "Nekril",
+    "PF2E.LanguageSylvan": "Sylvanisch",
+    "PF2E.LanguageShadowtongue": "Schattensprache",
+    "PF2E.LanguageTerran": "Terral",
+    "PF2E.LanguageUndercommon": "Finsterländisch",
+
+    "PF2E.SpellScalingModeNone": "Keine",
+    "PF2E.SpellScalingModeLevel1": "Erhöht (+1)",
+    "PF2E.SpellScalingModeLevel2": "Erhöht (+2)",
+    "PF2E.SpellScalingModeLevel3": "Erhöht (+3)",
+    "PF2E.SpellScalingModeLevelsecond": "Erhöht (2.)",
+    "PF2E.SpellScalingModeLevelthird": "Erhöht (3.)",
+    "PF2E.SpellScalingModeLevelfourth": "Erhöht (4.)",
+    "PF2E.SpellScalingModeLevelfifth": "Erhöht (5.)",
+    "PF2E.SpellScalingModeLevelsixth": "Erhöht (6.)",
+    "PF2E.SpellScalingModeLevelseventh": "Erhöht (7.)",
+    "PF2E.SpellScalingModeLeveleighth": "Erhöht (8.)",
+    "PF2E.SpellScalingModeLevelninth": "Erhöht (9.)",
+    "PF2E.SpellScalingModeLeveltenth": "Erhöht (10.)",
+
+    "PF2E.BrowserSearchPlaceholder": "Suchtext",
+    "PF2E.BrowserSearchTitle": "Anleitung mit Rechtsklick",
+    "PF2E.BrowserSortyByLabel": "Sortiere nach",
+    "PF2E.BrowserSortyByNameLabel": "Name",
+    "PF2E.BrowserSortyByLevelLabel": "Stufe",
+    "PF2E.BrowserFilterSkills": "Fähigkeiten",
+    "PF2E.BrowserFilterTraits": "Merkmale",
+    "PF2E.BrowserFilterProficiencyRequirements": "Kompetenzgrade",
+    "PF2E.BrowserFilterSizes": "Größen",
+    "PF2E.BrowserFilterAlignments": "Gesinnungen",
+    "PF2E.BrowserFilterLevels": "Stufen",
+    "PF2E.BrowserFilterClassFeats": "Klassentalente",
+    "PF2E.BrowserFilterSkillFeats": "Fertigkeitstalente",
+    "PF2E.BrowserFilterAncestryFeats": "Abstammungstalente",
+    "PF2E.BrowserFilterInventoryTypes": "Gegenstandsarten",
+    "PF2E.BrowserFilterArmorFilters": "Rüstungsfilter",
+    "PF2E.BrowserFilterWeaponFilters": "Waffenfilter",
+    "PF2E.BrowserFilterWeaponTraits": "Waffenmerkmale",
+    "PF2E.BrowserFilterCastingTime": "Zeitaufwand",
+    "PF2E.BrowserFilterTraditions": "Traditionen",
+    "PF2E.BrowserFilterClass": "Klassen",
+    "PF2E.BrowserFilterSchools": "Schulen",
+
+    "PF2E.OpenActionBrowserTitle": "Öffne Aktionssuche",
+    "PF2E.OpenFeatBrowserTitle": "Öffne Talentsuche",
+    "PF2E.OpenInventoryBrowser": "Öffne Inventarsuche",
+    "PF2E.OpenSpellBrowserTitle": "Öffne Zaubersuche"
 }
