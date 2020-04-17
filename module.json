@@ -1,7 +1,7 @@
 {
    "name" : "lang-de-pf2e",
    "title" : "de - Pathfinder 2e",
-   "version" : "",
+   "version" : "0.4.0",
    "minimumCoreVersion" : "0.5.0",
    "author" : "henry4k",
    "description" : "German language support for Pathfinder 2e",
@@ -17,5 +17,5 @@
    "styles": ["style.css"],
    "url" : "https://gitlab.com/henry4k/foundryvtt-pathfinder2e-lang-de",
    "manifest" : "https://gitlab.com/henry4k/foundryvtt-pathfinder2e-lang-de/-/raw/master/module.json",
-   "download" : "https://gitlab.com/henry4k/foundryvtt-pathfinder2e-lang-de/-/jobs/artifacts/v/download?job=build"
+   "download" : "https://gitlab.com/henry4k/foundryvtt-pathfinder2e-lang-de/-/jobs/artifacts/v0.4.0/download?job=build"
 }
